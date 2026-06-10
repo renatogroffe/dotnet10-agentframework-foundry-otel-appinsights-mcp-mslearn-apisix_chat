@@ -4,3 +4,7 @@ Exemplo em .NET 10 de Console Application que faz uso do Microsoft Agent Framewo
 Aplicação em execução:
 
 ![Console App](img/chat-01.png)
+
+Trace gerado no Application Insights:
+
+![Trace no Application Insights](img/appinsights-01.png)
